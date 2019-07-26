@@ -7,6 +7,7 @@ Based on XIV and first half of XV century rules.
 * pieces are not mirrored, queen is always on the left side of the king
 
 1.2 Pieces
+
 1.2.1 King
 * in the first move:
   * can move up to 2 square in any direction
