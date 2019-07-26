@@ -1,6 +1,6 @@
 # medieval_chess
-Chess engine that allows to play multiplayer chess using medieval rules
-Based on XIV and first half of XV century rules.
+* Chess engine that allows to play multiplayer chess using medieval rules
+* Based on XIV and first half of XV century rules.
 
 1.1 Chess board
 * h1 rule doesnt apply to white pieces, bottom right square has to be black for white pieces
