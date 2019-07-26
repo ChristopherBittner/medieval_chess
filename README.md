@@ -14,10 +14,10 @@
   * can move as the knight or the bishop
   * can jump over other pieces
   * does not check other king
-  * cannot perform castling
 * following moves:
   * 1 square in any direction
 * between kings there have to be at least one square of a distance
+* cannot perform castling
 
 1.2.2 Queen
 * cannot move if king have not been moved yet
